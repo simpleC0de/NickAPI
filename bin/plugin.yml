@@ -1,0 +1,5 @@
+main: NickAPI.Main.NickAPI
+name: NickAPI
+version: 1.0
+author: GoRoK
+website: GoRoK.xyz
